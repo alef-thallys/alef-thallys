@@ -14,7 +14,13 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 
 ### Status:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alef-thallys&layout=compact&theme=highcontrast)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alef-thallys&layout=compact&theme=highcontrast" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alefthallys&theme=highcontrast" />
+</a>
+
 
 <!---
 alef-thallys/alef-thallys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
