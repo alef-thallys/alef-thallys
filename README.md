@@ -12,11 +12,13 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,php,laravel,vue,tailwind,docker,linux)](https://skillicons.dev)
 
+<!---
 ### Status:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alef-thallys&layout=compact&theme=highcontrast" />
 </a>
+--->
 
 <!---
 <a href="https://github.com/anuraghazra/convoychat">
