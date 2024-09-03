@@ -15,20 +15,6 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 2.9 kB Used in GitHub's Storage 
- > 
-> 🏆 86 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -46,10 +32,6 @@ IntelliJ IDEA            21 hrs 57 mins      ███████████�
 Linux                    21 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/alef-thallys/alef-thallys/main/assets/bar_graph.png)
-
-
- Last Updated on 03/09/2024 02:33:52 UTC
+ Last Updated on 03/09/2024 02:42:40 UTC
 <!--END_SECTION:waka-->
