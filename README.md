@@ -10,7 +10,7 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 
 ### What I've learned:
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,php,laravel,vue,tailwind,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,docker,linux)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2030%20mins-blue)
@@ -31,7 +31,4 @@ IntelliJ IDEA            21 hrs 57 mins      ███████████�
 💻 Operating System: 
 Linux                    21 hrs 57 mins      █████████████████████████   100.00 % 
 ```
-
-
- Last Updated on 03/09/2024 02:42:40 UTC
 <!--END_SECTION:waka-->
