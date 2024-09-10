@@ -13,25 +13,8 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 [![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,docker,linux)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2016%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     17 hrs 55 mins      ████████████████████████░   96.60 % 
-Docker                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Java Properties          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-spring-boot-configuration3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-
-🔥 Editors: 
-IntelliJ IDEA            18 hrs 33 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    18 hrs 33 mins      █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2043%20mins-blue)
 
 
- Last Updated on 09/09/2024 18:42:26 UTC
+ Last Updated on 10/09/2024 18:42:14 UTC
 <!--END_SECTION:waka-->
