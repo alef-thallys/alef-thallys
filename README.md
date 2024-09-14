@@ -19,19 +19,18 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 
 ```text
 💬 Programming Languages: 
-Java                     14 hrs 41 mins      ████████████████████████░   95.85 % 
-Docker                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-spring-boot-configuration5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Java Properties          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Java                     10 hrs 2 mins       ████████████████████████░   97.75 % 
+spring-boot-configuration5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Java Properties          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-IntelliJ IDEA            15 hrs 20 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            10 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/09/2024 18:42:16 UTC
+ Last Updated on 14/09/2024 18:40:27 UTC
 <!--END_SECTION:waka-->
