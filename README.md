@@ -19,19 +19,19 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 
 ```text
 💬 Programming Languages: 
-Java                     17 hrs 55 mins      ████████████████████████░   94.82 % 
-Java Properties          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-DBN-SQL                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-spring-boot-configuration6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Java                     15 hrs 19 mins      ████████████████████████░   95.05 % 
+Java Properties          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+DBN-SQL                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+spring-boot-configuration5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-IntelliJ IDEA            18 hrs 53 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            16 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    18 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/09/2024 18:41:18 UTC
+ Last Updated on 29/09/2024 18:41:46 UTC
 <!--END_SECTION:waka-->
