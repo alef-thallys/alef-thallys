@@ -13,21 +13,23 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 [![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,docker,linux)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2016%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 44 mins       █████████████████████████   100.00 % 
+Java                     3 hrs 4 mins        ████████████████████░░░░░   80.98 % 
+Markdown                 41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 44 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/10/2024 18:44:10 UTC
+ Last Updated on 17/10/2024 18:43:56 UTC
 <!--END_SECTION:waka-->
