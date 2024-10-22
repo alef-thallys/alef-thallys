@@ -13,23 +13,23 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 [![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,docker,linux)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%205%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 4 mins        ████████████████████░░░░░   80.98 % 
-Markdown                 41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Java                     4 hrs 43 mins       ██████████████████████░░░   86.73 % 
+Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 48 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            5 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/10/2024 18:44:42 UTC
+ Last Updated on 22/10/2024 18:44:01 UTC
 <!--END_SECTION:waka-->
