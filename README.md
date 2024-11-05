@@ -13,26 +13,25 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 [![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,docker,linux)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2046%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     10 hrs 54 mins      ██████████████████░░░░░░░   70.60 % 
-HTTP Request             1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-HTML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Python                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Java Properties          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Java                     9 hrs 33 mins       ████████████████████░░░░░   79.19 % 
+HTTP Request             1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Java Properties          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Properties               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-IntelliJ IDEA            13 hrs 24 mins      ██████████████████████░░░   86.88 % 
-PyCharm                  2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+IntelliJ IDEA            12 hrs 3 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 26 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/11/2024 18:43:06 UTC
+ Last Updated on 05/11/2024 18:43:14 UTC
 <!--END_SECTION:waka-->
