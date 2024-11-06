@@ -19,19 +19,20 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 
 ```text
 💬 Programming Languages: 
-Java                     9 hrs 33 mins       ████████████████████░░░░░   79.19 % 
-HTTP Request             1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Java Properties          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Properties               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Java                     4 hrs 43 mins       █████████████░░░░░░░░░░░░   52.89 % 
+Python                   1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+HTTP Request             1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Java Properties          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Properties               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-IntelliJ IDEA            12 hrs 3 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            6 hrs 56 mins       ███████████████████░░░░░░   77.51 % 
+PyCharm                  2 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
 
 💻 Operating System: 
-Linux                    12 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/11/2024 18:43:14 UTC
+ Last Updated on 06/11/2024 18:43:15 UTC
 <!--END_SECTION:waka-->
