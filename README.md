@@ -19,18 +19,18 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 
 ```text
 💬 Programming Languages: 
-Java                     8 hrs 19 mins       ████████████████████████░   97.28 % 
-XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Java                     8 hrs 33 mins       ████████████████████████░   97.35 % 
+XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 hrs 33 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            8 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/11/2024 18:45:05 UTC
+ Last Updated on 16/11/2024 18:42:04 UTC
 <!--END_SECTION:waka-->
