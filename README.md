@@ -13,7 +13,7 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 [![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,docker,linux)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2044%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,5 +33,5 @@ Linux                    11 hrs 9 mins       ███████████�
 ```
 
 
- Last Updated on 24/11/2024 18:42:48 UTC
+ Last Updated on 25/11/2024 18:45:45 UTC
 <!--END_SECTION:waka-->
