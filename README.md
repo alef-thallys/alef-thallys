@@ -19,19 +19,19 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 28 mins       █████████████████████░░░░   82.20 % 
-XML                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Java Properties          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Properties               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-CLASS                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Java                     2 hrs 57 mins       ████████████████████░░░░░   81.42 % 
+XML                      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+CLASS                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 26 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 26 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/12/2024 18:43:17 UTC
+ Last Updated on 21/12/2024 18:40:50 UTC
 <!--END_SECTION:waka-->
