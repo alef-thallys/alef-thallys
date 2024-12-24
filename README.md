@@ -19,16 +19,15 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 
 ```text
 💬 Programming Languages: 
-Java                     6 mins              ███████████████████░░░░░░   76.38 % 
-Markdown                 1 min               ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+Java                     5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            8 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.00 % 
+Linux                    5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/12/2024 18:42:43 UTC
+ Last Updated on 24/12/2024 18:42:29 UTC
 <!--END_SECTION:waka-->
