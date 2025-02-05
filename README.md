@@ -19,15 +19,15 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/02/2025 18:43:20 UTC
+ Last Updated on 05/02/2025 18:43:32 UTC
 <!--END_SECTION:waka-->
