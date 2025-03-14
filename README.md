@@ -10,7 +10,7 @@ So, I started learning [Java](https://www.java.com/en/download/help/whatis_java.
 
 ### What I've learned:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,spring,php,laravel,docker)](https://skillicons.dev)
 
 <!--START_SECTION:waka
 ![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2011%20mins-blue)
